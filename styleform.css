@@ -1,0 +1,36 @@
+body {
+    background-color: burlywood;
+    
+
+    #data {
+        background-color: rgb(214, 230, 184);
+        /* color: aliceblue; */
+        height: 200px;
+        width: 300px;
+        border: 1px solid;
+        border-radius: 5px;
+        text-align: center;
+        margin: auto;
+        /* background: url(images/11.jpg); */
+
+        .fname {
+            margin-top: 10px;
+        }
+
+        .radio {
+            margin-left: 20px;
+        }
+
+        button {
+            color: rgb(255, 255, 255);
+            background-color: black;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        button:hover {
+            color: blue;
+            background-color: white;
+        }
+
+    }
+}
